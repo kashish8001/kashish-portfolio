@@ -39,7 +39,7 @@ export function HeroSection() {
         </motion.div>
 
         <div className="relative z-0 order-first h-[300px] w-full sm:h-[360px] lg:order-none lg:h-[480px]">
-          <HeroScene contained />
+          <HeroScene/>
         </div>
       </div>
     </section>
